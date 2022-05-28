@@ -1,5 +1,5 @@
 # Software Testing Experiments
-Experiments for Software Testing Course, CQU
+Undergraduate 3rd year. Experiments for Software Testing Course, CQU
 
 Exp1: 单元测试
 
